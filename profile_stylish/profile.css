@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+
+html{
+    background-color: #4b4d4a ;
+     font-size: 16px;
+}
+
+body{
+    width: 640px;
+    margin: auto;
+}
+
+h1{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 300px;
+}
+
+p{
+   font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
